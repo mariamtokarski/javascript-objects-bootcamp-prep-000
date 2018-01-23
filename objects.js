@@ -3,6 +3,7 @@ var playlist = {
   brockhampton:"face",
   aliciaKeys:"lesson learned",
   goapele:"closer"
+  "Kanye":"Gold Digger"
 }
 
 
@@ -12,6 +13,6 @@ function updatePlaylist(playlist, artist, titles){
 }
 
 function removeFromPlaylist(playlist, artist){
-  delete playlist.aliciaKeys
+  delete playlist["Kanye"]
   return playlist
 }
