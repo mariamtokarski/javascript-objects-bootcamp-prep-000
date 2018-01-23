@@ -1,9 +1,9 @@
 var playlist = new Object()
 
 var playlist = {
-  neilYoung: "harvest moon", 
-  brockhampton: "face", 
-  aliciaKeys: "lesson learned", 
+  neilYoung: "harvest moon",
+  brockhampton: "face",
+  aliciaKeys: "lesson learned",
   goapele: "closer"
 }
 
