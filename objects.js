@@ -3,7 +3,6 @@ var playlist = {
   brockhampton:"face",
   aliciaKeys:"lesson learned",
   goapele:"closer"
-  kanye:"Gold Digger"
 }
 
 
