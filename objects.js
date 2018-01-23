@@ -7,7 +7,7 @@ var playlist = {
 
 
 function updatePlaylist(playlist, artist, titles){
-  playlist.chopin = "nocturne in c minor"
+  playlist["Phil Ochs"] = "Here's to the State of Mississippi"
   return playlist
 }
 
