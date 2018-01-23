@@ -1,18 +1,16 @@
-var playlist = {artist: "titles"
-}
 var playlist = {
-  neilYoung: "harvest moon",
-  brockhampton: "face",
-  aliciaKeys: "lesson learned",
-  goapele: "closer",
-  chopin: "nocturne in c minor"
+  neilYoung:"harvest moon",
+  brockhampton:"face",
+  aliciaKeys:"lesson learned",
+  goapele:"closer"
 }
+
+
 function updatePlaylist(playlist, artist, titles){
-  playlist.artist = titles
   return playlist
 }
 
 function removeFromPlaylist(playlist, artist){
-  delete playlist.artist
+  delete playlist.aliciaKeys
   return playlist
 }
