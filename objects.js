@@ -1,10 +1,5 @@
-var playlist = new Object ({
-  "neilYoung": "harvest moon",
-  "brockhampton": "face",
-  "aliciaKeys": "lesson learned",
-  "goapele": "closer"
-  "chopin": "nocturne in c minor"
-})
+var playlist = {artist: "titles"
+}
 
 function updatePlaylist(playlist, artist, titles){
   return object.assign({}, playlist, {[artist]:titles})
