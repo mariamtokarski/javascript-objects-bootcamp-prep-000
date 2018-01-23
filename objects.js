@@ -1,5 +1,3 @@
-var playlist = new Object()
-
 var playlist = {
   neilYoung: "harvest moon",
   brockhampton: "face",
