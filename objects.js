@@ -1,9 +1,9 @@
 var playlist = {
-  neilYoung: "harvest moon",
-  brockhampton: "face",
-  aliciaKeys: "lesson learned",
-  goapele: "closer"
-  chopin: "nocturne in c minor"
+  "neilYoung": "harvest moon",
+  "brockhampton": "face",
+  "aliciaKeys": "lesson learned",
+  "goapele": "closer"
+  "chopin": "nocturne in c minor"
 }
 
 function updatePlaylist(playlist, artist, titles){
